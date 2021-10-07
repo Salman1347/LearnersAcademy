@@ -1,0 +1,24 @@
+package com.salman.SpringDemo;
+
+public class SwimCoach implements Coach {
+	
+	private FortuneService service;
+	
+	public SwimCoach(FortuneService service) {
+		super();
+		this.service = service;
+	}
+
+	@Override
+	public String getDailyWorkout() {
+		
+		return "swim 1000mtrs";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		
+		return service.getFortune();
+	}
+
+}

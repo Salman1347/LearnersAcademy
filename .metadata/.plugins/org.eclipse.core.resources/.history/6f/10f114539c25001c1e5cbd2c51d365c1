@@ -1,0 +1,16 @@
+package com.Luv2Code.SpringDemo;
+
+public class BaseballCoach implements Coach {
+
+	public String getDailyWorkout() {
+		
+		return "spend 30 mins on batting practise";
+		
+	}
+
+	@Override
+	public String getDailyFortunes() {
+		
+		return null;
+	}
+}

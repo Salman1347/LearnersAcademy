@@ -1,0 +1,15 @@
+package com.Luv2Code.SpringDemo;
+
+public class MyApp {
+
+	public static void main(String[] args) {
+		
+		//create the object and use the object
+		
+		BaseballCoach coach = new BaseballCoach();
+		
+		System.out.println(coach.getDailyWorkout());
+
+	}
+
+}

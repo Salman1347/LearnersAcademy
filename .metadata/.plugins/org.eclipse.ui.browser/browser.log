@@ -1,0 +1,76 @@
+
+Sep 25, 2021 24:33:05.705 NEW SESSION
+Sep 25, 2021 24:33:05.705 Opening in existing browser session.
+Sep 25, 2021 24:35:07.299 Opening in existing browser session.
+Sep 25, 2021 24:36:53.138 Opening in existing browser session.
+Sep 25, 2021 24:38:24.64 Opening in existing browser session.
+Sep 25, 2021 24:41:59.904 Opening in existing browser session.
+Sep 25, 2021 24:44:59.935 Opening in existing browser session.
+Sep 25, 2021 24:45:34.874 Opening in existing browser session.
+Sep 25, 2021 24:46:45.304 Opening in existing browser session.
+Sep 25, 2021 24:48:18.988 Opening in existing browser session.
+Sep 25, 2021 24:48:45.914 Opening in existing browser session.
+Sep 25, 2021 24:49:56.854 Opening in existing browser session.
+Sep 25, 2021 24:51:55.418 Opening in existing browser session.
+Sep 25, 2021 24:59:30.983 Opening in existing browser session.
+
+Sep 26, 2021 14:59:33.306 NEW SESSION
+Sep 26, 2021 14:59:33.306 Opening in existing browser session.
+Sep 26, 2021 14:59:35.665 [18640:3324:0926/145935.664:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Sep 26, 2021 14:59:35.666 [18640:3324:0926/145935.665:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+Sep 26, 2021 14:59:35.666 [18640:3324:0926/145935.665:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Sep 26, 2021 14:59:35.667 [18640:3324:0926/145935.666:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+Sep 26, 2021 14:59:35.669 [18640:16836:0926/145935.666:ERROR:device_event_log_impl.cc(214)] [14:59:35.666] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 26, 2021 14:59:35.669 [18640:16836:0926/145935.667:ERROR:device_event_log_impl.cc(214)] [14:59:35.666] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Sep 27, 2021 14:45:06.353 NEW SESSION
+Sep 27, 2021 14:45:06.353 Opening in existing browser session.
+Sep 27, 2021 14:46:07.232 Opening in existing browser session.
+Sep 27, 2021 14:55:46.939 Opening in existing browser session.
+Sep 27, 2021 14:57:59.594 Opening in existing browser session.
+Sep 27, 2021 15:01:34.33 Opening in existing browser session.
+Sep 27, 2021 15:03:16.03 Opening in existing browser session.
+Sep 27, 2021 19:45:19.295 Opening in existing browser session.
+Sep 27, 2021 21:48:08.179 Opening in existing browser session.
+Sep 27, 2021 21:49:57.880 [26092:25716:0927/214957.878:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Sep 27, 2021 21:49:57.882 [26092:25716:0927/214957.878:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+Sep 27, 2021 21:49:57.884 [26092:25716:0927/214957.878:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Sep 27, 2021 21:49:57.885 [26092:20440:0927/214957.882:ERROR:device_event_log_impl.cc(214)] [21:49:57.882] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2021 21:49:57.887 [26092:20440:0927/214957.883:ERROR:device_event_log_impl.cc(214)] [21:49:57.883] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2021 21:49:57.888 [26092:25716:0927/214957.884:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+Sep 27, 2021 21:50:51.105 [20604:25224:0927/215051.104:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Sep 27, 2021 21:50:51.107 [20604:25224:0927/215051.104:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+Sep 27, 2021 21:50:51.109 [20604:25224:0927/215051.104:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Sep 27, 2021 21:50:51.111 [20604:17372:0927/215051.106:ERROR:device_event_log_impl.cc(214)] [21:50:51.106] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2021 21:50:51.113 [20604:17372:0927/215051.107:ERROR:device_event_log_impl.cc(214)] [21:50:51.107] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 27, 2021 21:50:51.116 [20604:25224:0927/215051.108:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+
+Sep 28, 2021 11:45:19.794 NEW SESSION
+Sep 28, 2021 11:45:19.794 [Child 1072, MediaDecoderStateMachine #1] WARNING: 17c8df99e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Sep 28, 2021 11:49:39.566 [Child 1072, MediaDecoderStateMachine #2] WARNING: 17c94ce04a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Sep 28, 2021 12:55:06.656 [Child 1072, MediaDecoderStateMachine #1] WARNING: 17c96d15200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Sep 28, 2021 13:02:32.205 [Child 1072, MediaDecoderStateMachine #1] WARNING: 17c96d15200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Sep 28, 2021 13:45:11.604 [Child 15364, MediaDecoderStateMachine #1] WARNING: 233c6ba53c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Sep 28, 2021 14:02:55.213 [Child 1072, MediaDecoderStateMachine #1] WARNING: 17c9a2e0820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Sep 28, 2021 14:07:11.469 [Child 1072, MediaDecoderStateMachine #3] WARNING: 17c96ca8820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+
+Oct 05, 2021 16:35:16.820 NEW SESSION
+Oct 05, 2021 16:35:16.821 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b2f748f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:35:32.458 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b2c531900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:35:47.920 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b29978820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:36:13.398 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b2f7483c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:36:16.72 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b29ddd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:38:12.876 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b29ab4c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:38:15.549 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b22ba7f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:38:30.624 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b22ba7740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:38:32.924 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b2dd3c660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:41:17.397 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b29d154a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:41:18.830 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b2dd3c3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:41:20.545 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b38853040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:41:34.366 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b2ec454a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:41:39.218 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b2ec45c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:42:02.783 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b29d999e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:42:42.367 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b29d999e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:42:44.326 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b2d6d8660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:42:48.57 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b29d99d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Oct 05, 2021 16:42:51.932 [Child 23708, MediaDecoderStateMachine #1] WARNING: 23b29d99d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367

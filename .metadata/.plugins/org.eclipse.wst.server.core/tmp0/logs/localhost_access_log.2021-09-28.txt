@@ -1,0 +1,5 @@
+127.0.0.1 - - [28/Sep/2021:11:20:21 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [28/Sep/2021:11:20:29 +0530] "GET /jspBasics/hello_world.jsp HTTP/1.1" 200 152
+127.0.0.1 - - [28/Sep/2021:11:34:00 +0530] "GET /jspBasics/addition.jsp HTTP/1.1" 500 2425
+127.0.0.1 - - [28/Sep/2021:11:35:36 +0530] "GET /jspBasics/numbers.html HTTP/1.1" 200 345
+127.0.0.1 - - [28/Sep/2021:11:35:42 +0530] "GET /jspBasics/addition.jsp?number1=3&number2=3&submit=Submit+Query HTTP/1.1" 200 156

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:lang="http://www.springframework.org/schema/lang" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang.xsd"> <!-- bean definitions here -->
+
+<bean id="emp1" class="com.simpilearn.webapp.Employee.Employee">
+<property name="id" value="1001"></property>
+<property name="Name" value="salman"></property>
+<property name="Salary" value="4.5"></property>
+<property name="Dept" value="Developer"></property>
+
+
+
+
+</bean>
+
+
+
+
+</beans>
+

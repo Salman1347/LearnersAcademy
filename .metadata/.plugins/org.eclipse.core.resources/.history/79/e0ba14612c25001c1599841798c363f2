@@ -1,0 +1,28 @@
+package com.Luv2Code.SpringDemo;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class SpringHelloApp {
+
+	public static void main(String[] args) {
+		
+		
+		//load the spring config file
+		
+		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+		
+		
+		//retriev the bean from spring container
+		BaseballCoach coach = (BaseballCoach)context.getBean("mycoach", BaseballCoach.class);
+		
+		
+		//call methods on the bean 
+		System.out.println(coach.getDailyWorkout());
+		
+		
+		//close the context
+		
+	}
+
+}

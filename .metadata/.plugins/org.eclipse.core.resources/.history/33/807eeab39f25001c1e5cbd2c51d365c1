@@ -1,0 +1,17 @@
+package com.Luv2Code.SpringDemo;
+
+public class Hockey implements Coach {
+
+	@Override
+	public String getDailyWorkout() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getDailyFortunes() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
